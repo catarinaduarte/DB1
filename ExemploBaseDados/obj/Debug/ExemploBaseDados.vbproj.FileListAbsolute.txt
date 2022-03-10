@@ -1,0 +1,14 @@
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\bin\Debug\Livros.mdb
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\bin\Debug\ExemploBaseDados.exe.config
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\bin\Debug\ExemploBaseDados.exe
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\bin\Debug\ExemploBaseDados.pdb
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\bin\Debug\ExemploBaseDados.xml
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.vbproj.AssemblyReference.cache
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.Form1.resources
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.Resources.resources
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.exe
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.xml
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.pdb
+C:\Users\35196\Desktop\Documents\Trabalhos VB.Net\ExemploBaseDados\ExemploBaseDados\obj\Debug\ExemploBaseDados.entrada.resources
